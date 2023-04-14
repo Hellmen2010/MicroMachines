@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dff42b804bcc4a93a0309deaff79b44c, type: 3}
+  m_Name: EnvironmentSpritesData
+  m_EditorClassIdentifier: 
+  RoadHighlighted: {fileID: 21300000, guid: a3c22950e6d2d4012bc39a3d098b02f1, type: 3}
+  RoadUnHighlighted: {fileID: 21300000, guid: 4da3af155869742acbd9490f0dae66a8, type: 3}

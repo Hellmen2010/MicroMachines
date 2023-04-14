@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91f8eae1dace4434aa94eb98cf6fef8d, type: 3}
+  m_Name: PrefabsData
+  m_EditorClassIdentifier: 
+  RootCanvasPrefab: {fileID: 8927380304441350620, guid: 17f494cd2bfab493fa28ae48dd62b1a8, type: 3}
+  MainMenuPrefab: {fileID: 4713740641459753653, guid: b4c16ead6587a46748b14bca3cb0c883, type: 3}
+  CarInputPrefab: {fileID: 4022399385605198831, guid: fac0541a43ac84976bbd85fe0f499893, type: 3}
+  timerViewPrefab: {fileID: 7259753860794169662, guid: 1a9a8f1db85a348989fbcf5934f3236c, type: 3}
+  BackButtonPrefab: {fileID: 7443829430250583377, guid: 05e15d7b38f7b4b54910a0c205fb9a1e, type: 3}
+  CarSelectionPrefab: {fileID: 7678010555903443860, guid: 4a897d3926c254e93a7b475e8e68067e, type: 3}
+  CarUIViewPrefab: {fileID: 4723098792664527333, guid: 4a1d3c60f4a6f417795ba46f1df8d191, type: 3}
+  StartRaceButtonPrefab: {fileID: 6412994947328335294, guid: 384fb1edd7e4041d4acf5dfbc013908d, type: 3}
+  CountdownPrefab: {fileID: 8270621882411540284, guid: f3360174341a9402992d8a693966088a, type: 3}
+  WinPopUpPrefab: {fileID: 5520777000613716580, guid: 7387a0985c2a945fba6ee6a1720fafd7, type: 3}
+  BestTimePopUpPrefab: {fileID: 5948509534465466029, guid: 0f63916e275de4841828e1a928e6947c, type: 3}
+  BestButtonPrefab: {fileID: 3009107466244521405, guid: 21e499bdacbbd49b08e1aceedaed843c, type: 3}
+  BestTimeViewPrefab: {fileID: 3465735030783250483, guid: 5d7dd3012b6c24c9582820de7197529d, type: 3}
+  SettingsPrefab: {fileID: 1571152284630784856, guid: a882dd6fa6dec435382a414ee04ccbdf, type: 3}
+  VolumeSettingsPrefab: {fileID: 5255846538992946366, guid: 5926eb4f32e854fd19298ebc35fef12f, type: 3}
+  CarGameViewPrefab: {fileID: 1837542437503648276, guid: e7469761e75e540aea22a60f8053b7f8, type: 3}
+  CheckpointPrefab: {fileID: 8938333409168299296, guid: 46f0a88a44ad840e78a93425be3d1595, type: 3}
+  RoadPrefab: {fileID: 4324122620727740486, guid: 8d9d35c47d9b25048aedfac9f9f7c8f8, type: 3}
+  CameraPrefab: {fileID: 5837118991127758393, guid: fc4011e89c8af4ed3b17a89a5de82140, type: 3}

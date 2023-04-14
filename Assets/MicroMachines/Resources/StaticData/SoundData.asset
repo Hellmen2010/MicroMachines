@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5377dd99f8f3459aab32aa933a992062, type: 3}
+  m_Name: SoundData
+  m_EditorClassIdentifier: 
+  AudioEffectClips:
+  - Clip: {fileID: 8300000, guid: dd5aafc7f07f54b569aa7d8352b9345f, type: 3}
+    Id: 0
+  - Clip: {fileID: 8300000, guid: 0c2fbf7729e7b4cc19acafc89c7de0fb, type: 3}
+    Id: 1
+  - Clip: {fileID: 8300000, guid: 5a9d2bb9d52bb45c2a6f83838db7a5ce, type: 3}
+    Id: 2
+  - Clip: {fileID: 8300000, guid: bd26aa69ac71e4299b7332e5bec7021a, type: 3}
+    Id: 3
+  BackgroundMusic: {fileID: 8300000, guid: 3192b3b3911d04290acfaecf75aeb992, type: 3}
+  VolumeOn: {fileID: 21300000, guid: dfde29d91e32144c9bebfa92bcccbd36, type: 3}
+  VolumeOff: {fileID: 21300000, guid: fbdb0ac1ca7d64228a74e7483f4ee81f, type: 3}
